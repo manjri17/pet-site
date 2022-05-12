@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #fffff;
+        background-color:#FF6700;
     font-family: calibri;
 }
 a{
@@ -51,6 +51,7 @@ a{
     border-radius: 10px;
     width: 300px;
     height: 400px;
+    background-color: #fff;
     padding: 20px 25px;
     box-sizing: border-box;
     margin: 30px;
